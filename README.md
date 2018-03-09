@@ -1,0 +1,2 @@
+# Danganronpa2
+gamesave
